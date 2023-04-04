@@ -7,4 +7,4 @@ seaborn
 xmltodict
 gdown
 numpy
-git+https://github.com/facebookresearch/detectron2.git #detectron2
+
